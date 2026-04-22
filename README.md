@@ -9,13 +9,5 @@
 ## وصف النشاط
 تطبيق فكرة المكتبة الرقمية لتوضيح مفاهيم التنقل (Stack Navigation) وتمرير البيانات بين الشاشات (Passing Data) واستقبال النتائج (Returning Data) باستخدام `async/await`.
 
-
-
-[url=https://postimg.cc/cvLbZYtz][img]https://i.postimg.cc/cvLbZYtz/01.png[/img][/url]
-
-[url=https://postimg.cc/zyGc5WRZ][img]https://i.postimg.cc/zyGc5WRZ/02.png[/img][/url]
-
-[url=https://postimg.cc/G4gSp2vN][img]https://i.postimg.cc/G4gSp2vN/03.png[/img][/url]
-
-[url=https://postimg.cc/pmc1dTK3][img]https://i.postimg.cc/pmc1dTK3/04.png[/img][/url]
+https://i.postimg.cc/d3PgZhbY/01.png
 
